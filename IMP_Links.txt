@@ -1,0 +1,12 @@
+Github Document link : 
+https://github.com/nvaws/labs
+
+
+https://www.youtube.com/watch?v=EkNq4TrHP_U&ab_channel=ElitheComputerGuy
+
+connect the EC2 thru Putty..
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+
+Use existing template for creating stack of automatic resource creation : 
+https://aws.amazon.com/quickstart/
+
